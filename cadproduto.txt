@@ -1,0 +1,12 @@
+12345#garrafa#0.6#40#50#Nacional#
+12345#garrafa#0.3#40#50#Nacional#
+teste#teste#teste#teste#teste#Importado#teste
+teste2#teste2#teste2#teste2#teste2#Nacional#teste2
+99999#teclado#1kg#150#200#Importado#
+55555#óculos#0.1#800#1000#Nacional#
+88888#sacola#0.001#0.10#0.30#Nacional#
+88888#sacola#0.001#0.10#0.30#Nacional#asdsdsdsd
+111111#shampoo#0.5#10#20#Nacional#
+00001#camiseta#0.2#20#50#Importado#teste obs
+1258#teste#50#50#60#Nacional#
+8571#testeeee#40#80#100#Importado#seraaa
